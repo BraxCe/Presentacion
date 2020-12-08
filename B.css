@@ -1,0 +1,10 @@
+*{
+    background: black;
+    color: red;
+    padding: 0;
+    margin: 3px;
+}
+
+p{
+    font-size: 25px;
+}
